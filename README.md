@@ -24,7 +24,7 @@ The solution follows a **Bronze → Silver → Gold** architecture and supports 
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="" alt="FMCG Sales Analytics Architecture" width="95%">https://github.com/Kaif-077/FMCG__Sales-Analytics-Databricks/blob/main/Dashboard/Screenshot%202026-09-12%20122548.png
+  <img src="Dashboard/Screenshot 2026-09-12 122548.png" alt="FMCG Sales Analytics Architecture" width="95%">
 </p>
 
 ### 🔄 Data Flow
